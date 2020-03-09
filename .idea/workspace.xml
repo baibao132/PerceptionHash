@@ -33,6 +33,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\28175\IdeaProjects\OpenCVgzhx\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1YcFSr4Byz3FjTzELcyjdDquCOa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,6 +48,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -106,10 +114,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="504" y="13" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1583735772600" />
-    <state x="354" y="25" key="CommitChangelistDialog2" timestamp="1583737269267">
+    <state x="354" y="25" key="CommitChangelistDialog2" timestamp="1583737317652">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="354" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1583737269267" />
+    <state x="354" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1583737317652" />
     <state x="445" y="172" key="FileChooserDialogImpl" timestamp="1583737077372">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
